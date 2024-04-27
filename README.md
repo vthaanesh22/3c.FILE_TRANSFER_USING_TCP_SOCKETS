@@ -55,6 +55,10 @@ start_server()
 
 ## OUPUT
 ## Client:
+![image](https://github.com/vthaanesh22/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/139373686/20246b27-9ba6-45ef-98b2-610e57621038)
+## Server:
+![image](https://github.com/vthaanesh22/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/139373686/f5a54364-aca7-4ea0-a676-a493ccbabee7)
+
 
 
 ## RESULT
